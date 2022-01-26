@@ -9,7 +9,7 @@
 
   <br>
 
-  Desafio 2: documentando com o Swagger
+  Desafio 2: documentando com Swagger
 </h1>
 
 <br>
